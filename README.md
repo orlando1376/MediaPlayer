@@ -20,7 +20,7 @@ The main plugins offered by the player are:
 
 *** 
 
-![MediaPlayer](./MediaPlayer/assets/imgs/MediaPlayer.png "Imagen de MediaPlayer")
+![MediaPlayer](https://github.com/orlando1376/MediaPlayer/blob/master/assets/imgs/MediaPlayer.png "Imagen de MediaPlayer")
 
 ***
 
