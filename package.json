@@ -1,0 +1,21 @@
+{
+    "name": "platzi-media-player",
+    "version": "1.0.0",
+    "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
+    "license": "MIT",
+    "author": "Orlando Franco <orlandofranvo@gmail.com>",
+    "keywords": [
+        "platzi"
+    ],
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.1",
+        "parcel-bundler": "^1.12.5",
+        "typescript": "^4.2.4"
+    },
+    "browserslist": [
+        "last 1 chrome version"
+    ]
+}
