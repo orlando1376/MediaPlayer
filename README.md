@@ -53,5 +53,5 @@ I have developed this project on my way to becoming an Angular professional.
 
 ## License 
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/estalvgs1999/PLJS01-Legacy-MediaPlayer/blob/master/LICENSE) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/orlando1376/MediaPlayer/blob/master/LICENSE) file for details
 
